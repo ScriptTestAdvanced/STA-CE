@@ -2,4 +2,4 @@
 To get started, download the newest version in releases.
 
 # What is STA CE?
-It's Rune CE but with STA branding instead of Bygay, all though Rune CE works with STA, it feels better for it to have its own launcher! It will still work the same as RUNE CE.
+A better version of Rune, with more and better features! This is a skid but gave creds so dw. STA CE is based of Rune v1.8
